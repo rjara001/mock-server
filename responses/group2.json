@@ -1,0 +1,22 @@
+{
+    "id": 2,
+    "name": "Lista B",
+    "words": [
+        {
+            "name": "Bother",
+            "value": "Molestia"
+        },
+        {
+            "name": "Burglars",
+            "value": "Ladrones"
+        },
+        {
+            "name": "Crossover",
+            "value": "Transversal"
+        },
+        {
+            "name": "Spank",
+            "value": "Azotar"
+        }
+    ]
+}

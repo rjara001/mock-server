@@ -1,0 +1,26 @@
+{
+    "id": 3,
+    "name": "Lista C",
+    "words": [
+        {
+            "name": "Stared",
+            "value": "Miro fijamente"
+        },
+        {
+            "name": "Uneasy",
+            "value": "Incomodo"
+        },
+        {
+            "name": "Wrecked",
+            "value": "Arruinado"
+        },
+        {
+            "name": "Pleads",
+            "value": "Implora/declara"
+        },
+        {
+            "name": "Glimpse",
+            "value": "Mirada"
+        }
+    ]
+}

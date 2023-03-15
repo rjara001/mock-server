@@ -1,0 +1,55 @@
+-  request:
+      url: /groups
+      method: GET
+      headers:
+        content-type: application/json
+   response:
+      headers:
+         Content-Type: application/json
+         Access-Control-Allow-Origin: "*"
+      status: 200
+      file: responses/groups.json
+-  request:
+      url: /group/1
+      method: GET
+      headers:
+        content-type: application/json
+   response:
+      headers:
+         Content-Type: application/json
+         Access-Control-Allow-Origin: "*"
+      status: 200
+      file: responses/group1.json
+-  request:
+      url: /group/2
+      method: GET
+      headers:
+        content-type: application/json
+   response:
+      headers:
+         Content-Type: application/json
+         Access-Control-Allow-Origin: "*"
+      status: 200
+      file: responses/group2.json
+-  request:
+      url: /group/3
+      method: GET
+      headers:
+        content-type: application/json
+   response:
+      headers:
+         Content-Type: application/json
+         Access-Control-Allow-Origin: "*"
+      status: 200
+      file: responses/group3.json
+-  request:
+      url: /groupText/1
+      method: GET
+      headers:
+        content-type: application/json
+   response:
+      headers:
+         Content-Type: application/json
+         Access-Control-Allow-Origin: "*"
+      status: 200
+      file: responses/groupText1.json
